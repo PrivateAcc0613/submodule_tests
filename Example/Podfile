@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'MediaT_Example' do
+  pod 'MediaT', :path => '../'
+
+  target 'MediaT_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

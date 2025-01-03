@@ -1,0 +1,16 @@
+PODS:
+  - MediaT (0.1.0)
+
+DEPENDENCIES:
+  - MediaT (from `../`)
+
+EXTERNAL SOURCES:
+  MediaT:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MediaT: e81e2c028af532302019ae17aa2cc9b0d12e027e
+
+PODFILE CHECKSUM: 82a36891de0f3d1854688103d6e0c0116bbf0149
+
+COCOAPODS: 1.15.2

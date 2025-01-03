@@ -1,0 +1,6 @@
+framework module MediaT {
+  umbrella header "MediaT-umbrella.h"
+
+  export *
+  module * { export * }
+}

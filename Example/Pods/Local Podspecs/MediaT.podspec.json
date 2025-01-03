@@ -1,0 +1,22 @@
+{
+  "name": "MediaT",
+  "version": "0.1.0",
+  "summary": "A short description of MediaT.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/권오준(OhJune Kwon)/App개발팀/11ST/MediaT",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "권오준(OhJune Kwon)/App개발팀/11ST": "rks223@sk.com"
+  },
+  "source": {
+    "git": "https://github.com/권오준(OhJune Kwon)/App개발팀/11ST/MediaT.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "MediaT/Classes/**/*"
+}
